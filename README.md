@@ -64,3 +64,23 @@ flask run
 ```
 Navigate your web browser to localhost:5000 to access the application.
 
+## Database design
+
+![database_design](static/screenshots/database_design.png)
+
+## Graphic design
+
+![graphic_design](static/screenshots/graphic_design.png)
+
+## Application interface
+
+![Homepage](static/screenshots/Homepage.png)
+
+![About_us](static/screenshots/About_us.png)
+
+![Manage_accounts](static/screenshots/Manage_accounts.png)
+
+
+
+
+
